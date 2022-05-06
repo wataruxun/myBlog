@@ -16,7 +16,7 @@ IT Engineer, Software Developer
 
 修士(博士前期課程) / Master's Degree
 
-- システム情報科学 / System Information Science
+- システム情報科学 / System Information Science (March 2021)
 
 ### 資格 / Certifications
 

@@ -12,6 +12,12 @@ permalink: /about/
 
 IT Engineer, Software Developer
 
+### 経験 / Experience
+
+- Java(Spring Frameworkを用いたAPIの開発)
+- Dart(Flutterを用いたモバイルアプリ開発)
+- Solidity(ブロックチェーン基盤のスマートコントラクト開発)
+
 ### 学位 / Degree
 
 修士(博士前期課程) / Master's Degree
@@ -24,12 +30,13 @@ IT Engineer, Software Developer
 
 ![JavaSilver](assets/images/JapanCert-OCP-Silver.gif){: width="15%"}
 
-- Oracle Certified Java Programmer, Silver SE 8 (February 2022)
-- 基本情報技術者試験 (October 2018)
+- 応用情報技術者試験 合格 (October 2022)
+- Oracle Certified Java Programmer, Silver SE8 取得 (February 2022)
+- 基本情報技術者試験 合格 (October 2018)
 
 #### 金融 / Finance
 
-- 日商簿記検定 3 級 (April 2021)
+- 日商簿記検定3級 取得 (April 2021)
 
 #### 語学 / Language
 

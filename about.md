@@ -12,7 +12,7 @@ permalink: /about/
 
 IT Engineer, Software Developer
 
-### 経験 / Experience
+#### 経験 / Experience
 
 - Java(Spring Frameworkを用いたAPIの開発)
 - Dart(Flutterを用いたモバイルアプリ開発)

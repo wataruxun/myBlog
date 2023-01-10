@@ -12,6 +12,7 @@ permalink: /about/
 
 IT Engineer, Software Developer
 
+
 #### 経験 / Experience
 
 - Java(Spring Frameworkを用いたAPIの開発)
@@ -29,18 +30,20 @@ IT Engineer, Software Developer
 #### 情報技術 / IT
 
 ![JavaSilver](assets/images/JapanCert-OCP-Silver.gif){: width="15%"}
+![html5_lv1](assets/images/lv1.gif){: width="15%"}
 
-- 応用情報技術者試験 合格 (October 2022)
-- Oracle Certified Java Programmer, Silver SE8 取得 (February 2022)
-- 基本情報技術者試験 合格 (October 2018)
+- HTML5プロフェッショナル認定 レベル1 (2023年1月)
+- 応用情報技術者試験 合格 (2022年10月)
+- Oracle Certified Java Programmer, Silver SE8 取得 (2022年2月)
+- 基本情報技術者試験 合格 (2018年10月)
 
 #### 金融 / Finance
 
-- 日商簿記検定3級 取得 (April 2021)
+- 日商簿記検定3級 取得 (2021年4月)
 
 #### 語学 / Language
 
-- TOEIC L&R Max Score: 680 (March 2021)
+- TOEIC L&R 最高点: 680 (2021年3月)
 
 ### SNS
 

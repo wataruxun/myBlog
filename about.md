@@ -12,7 +12,6 @@ permalink: /about/
 
 IT Engineer, Software Developer
 
-
 #### 経験 / Experience
 
 - Java(Spring Frameworkを用いたAPIの開発)
@@ -33,7 +32,9 @@ IT Engineer, Software Developer
 ![html5_lv1](assets/images/lv1.gif){: width="15%"}
 ![html5_lv2](assets/images/lv2.gif){: width="15%"}
 ![aws_clf](assets/images/aws-certified-cloud-practitioner.png){: width="15%"}
+![aws_saa](assets/images/aws-certified-solutions-architect-associate.png){: width="15%"}
 
+- AWS Certified Solutions Architect - Associate (SAA-C03) 合格 (2023年9月)
 - HTML5プロフェッショナル認定 レベル2 (2023年3月)
 - AWS Certified Cloud Practitioner (CLF-C01) 合格 (2023年2月)
 - HTML5プロフェッショナル認定 レベル1 (2023年1月)
